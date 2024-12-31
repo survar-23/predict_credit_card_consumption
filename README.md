@@ -54,5 +54,4 @@ Tools:
 Jupyter Notebooks for model development
 GitHub for version control
 
-Link to Resume & Future Work
-This project showcases the application of Supervised Learning and Regression Models to solve real-world banking problems. For more details and related work, feel free to check out my GitHub profile
+This project showcases the application of Supervised Learning and Regression Models to solve real-world banking problems.
