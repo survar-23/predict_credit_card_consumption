@@ -1,7 +1,5 @@
 Predict Credit Consumption of Customer for a Bank
 
-![image](https://github.com/user-attachments/assets/251b5891-deac-445d-bb7a-18dc51b7f08f)
-
 Project Overview
 
 This project aims to predict the credit consumption of customers for a leading bank using machine learning techniques. The primary objective is to forecast customers' spending habits based on data from the past three months, facilitating better strategic planning and enhancing customer experience.
